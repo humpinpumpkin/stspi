@@ -1,6 +1,6 @@
 # stspi
 drive pimoronis sts-pi
-install oimoroni dashboard
+install pimoroni dashboard
 sudo apt-get install pimoroni
 launch pimoroni dashboard
 pimoroni-dashboard
